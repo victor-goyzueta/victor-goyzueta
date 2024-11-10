@@ -16,8 +16,6 @@
 
 <a href="https://github.com/victor-goyzueta/badge42"><img src="https://badge.mediaplus.ma/greenbinary/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
 
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/shashemi?1337Badge=off&UM6P=off" alt="shashemi's 42 stats" /></a>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
