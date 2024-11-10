@@ -5,6 +5,7 @@
 </p>
 
 <br>
+
 <div align="center">
   <a href="https://victor-goyzueta.notion.site/Hola-soy-V-ctor-707a07aa35bb4b1bb7fd733d4a653f1b"><img src="https://img.shields.io/badge/Web-black" alt="Notion"></a>
   <a href="https://www.linkedin.com/in/victor-goyzueta/"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>
@@ -14,11 +15,12 @@
 
 <br>
 
-<a href="https://github.com/victor-goyzueta"><img src="https://badge.mediaplus.ma/greenbinary/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
+<div align="center">
+  <a href="https://github.com/victor-goyzueta"><img src="https://badge.mediaplus.ma/greenbinary/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
+</div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
