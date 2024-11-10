@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://github.com/victor-goyzueta/badge42"><img src="https://badge.mediaplus.ma/bubble/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
+<a href="https://github.com/victor-goyzueta/badge42"><img src="https://badge.mediaplus.ma/greenbinary/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
 
 <br>
 
