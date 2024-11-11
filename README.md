@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/victor-goyzueta"><img src="https://badge.mediaplus.ma/greenbinary/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
+  <a href="https://github.com/victor-goyzueta"><img src="https://badge.mediaplus.ma/binary/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
 </div>
 
 <br>
