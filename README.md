@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <a href="https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74" target="_blank"> 
+  <a href="https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74" target="_blank">
     <img src="./banner-apuntes.gif" alt="banner web de apuntes">
   </a>
 </div>
