@@ -14,10 +14,11 @@
 </div>
 
 <br>
-<a href="https://www.ejemplo.com" target="_blank">Texto descriptivo</a>
 
 <div align="center">
-  <a [![Banner web de apuntes] (./banner-apuntes.gif)](https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74 target="_blank")></a>
+  <a href="https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74" target="_blank")> 
+    <img src="./banner-apuntes.gif" alt="banner web de apuntes">
+  </a>
 </div>
 
 <br>
