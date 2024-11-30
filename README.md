@@ -14,9 +14,10 @@
 </div>
 
 <br>
+<a href="https://www.ejemplo.com" target="_blank">Texto descriptivo</a>
 
 <div align="center">
-[![Banner web de apuntes](./banner-apuntes.gif)](https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74 target="_blank")
+  <a [![Banner web de apuntes] (./banner-apuntes.gif)](https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74 target="_blank")></a>
 </div>
 
 <br>
