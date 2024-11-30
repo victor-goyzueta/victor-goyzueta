@@ -15,7 +15,7 @@
 
 <br>
 
-[![Banner web de apuntes](https://www.ejemplo.com/imagen.png)](https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74)
+[![Banner web de apuntes](./banner-apuntes.gif)](https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74)
 
 <br>
 
