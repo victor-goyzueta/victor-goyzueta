@@ -15,6 +15,10 @@
 
 <br>
 
+[![Banner web de apuntes](https://www.ejemplo.com/imagen.png)](https://victor-goyzueta.notion.site/Hola-y-bienvenid-14b552f5ed6b806e88e8f4b0f6034699?pvs=74)
+
+<br>
+
 <div align="center">
   <a href="https://github.com/victor-goyzueta"><img src="https://badge.mediaplus.ma/binary/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
 </div>
