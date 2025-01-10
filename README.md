@@ -7,10 +7,9 @@
 <br>
 
 <div align="center">
-  <a href="https://victor-goyzueta.notion.site/Hola-soy-V-ctor-707a07aa35bb4b1bb7fd733d4a653f1b"><img src="https://img.shields.io/badge/Web-black" alt="Notion"></a>
+  <a href="https://bit.ly/victor-goyzueta"><img src="https://img.shields.io/badge/Web-black" alt="Notion"></a>
   <a href="https://www.linkedin.com/in/victor-goyzueta/"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>
   <a href="https://www.behance.net/victor-goyzueta"><img src="https://img.shields.io/badge/Behance-white" alt="Behance"></a>
-  <a href="https://dribbble.com/victor-goyzueta"><img src="https://img.shields.io/badge/Dribbble-red" alt="Dribbble"></a>
 </div>
 
 <br>
