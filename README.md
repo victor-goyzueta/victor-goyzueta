@@ -19,7 +19,7 @@
   <tr>
     <td align="left">
       <ul>
-        <b><a href="https://github.com/victor-goyzueta/libft">Libft</a><br></b>
+        <b><a href="https://github.com/victor-goyzueta/libft">libft</a><br></b>
       </ul>
     </td>
     <td align="left">
