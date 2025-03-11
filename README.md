@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Víctor </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=...&hearts;++;Student+at+42;C,+C%2B%2B,+Python;Unix+signals,+Algorithms,+Graphics;..<3&"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=...&hearts;++;Student+at+42;C,+C%2B%2B,+Python;Unix+signals,+Algorithms,+Graphics;Learning+in+progress...&"></a>
 </p>
 
 <!--  -->
@@ -137,14 +137,6 @@
 <div align="center">
   <a href="https://bit.ly/victor-goyzueta"><img src="https://img.shields.io/badge/Web-black" alt="Notion"></a>
   <a href="https://www.linkedin.com/in/victor-goyzueta/"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>
-</div>
-
-<br>
-
-<!--  -->
-<div align="center">
-  <a href="https://bit.ly/42-vgoyzuet" target="_blank"><img src="./banner-apuntes.gif" alt="banner web de apuntes">
-  </a>
 </div>
 
 <br>
