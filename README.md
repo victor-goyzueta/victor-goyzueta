@@ -34,7 +34,7 @@
     </td>
     <td align="left">
       <ul>
-        <b><a>-----</a><br></b>
+        <b><a href="https://github.com/victor-goyzueta/minishell">minishell</a><br></b>
       </ul>
     </td>
     <td align="left">
@@ -72,7 +72,7 @@
     </td>
     <td align="left">
       <ul>
-        <b><a>-----</a><br></b>
+        <b><a href="https://github.com/victor-goyzueta/philosophers">philosophers</a><br></b>
       </ul>
     </td>
     <td align="left">
