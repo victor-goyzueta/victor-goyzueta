@@ -1,135 +1,55 @@
 <h1 align="center"><b>Hi , I'm Víctor </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=...&hearts;++;Student+at+42;C,+C%2B%2B,+Python;Unix+signals,+Algorithms,+Graphics;Learning+in+progress...&"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=...&hearts;++;Student+at+42;Learning+in+progress...&"></a>
 </p>
 
+---
+
+I am a programming student 💻 at [`42 Madrid`](https://www.42madrid.com/), exploring new ways to create digital solutions that combine logic and creativity. My current focus is on developing technical skills and deepening my programming knowledge to expand my possibilities within the tech world.
+
+I come from a background in visual design, where I have worked in advertising agencies and led multidisciplinary teams. This experience has given me a strategic vision for approaching problems from both an aesthetic and functional perspective.
+
+I am motivated to learn, iterate, and perfect every detail, always seeking to build experiences that are intuitive, accessible, and have a real impact. I am looking for opportunities where I can apply my programming knowledge, continue to grow, and add value to challenging projects.
+
+---
+
 <!--  -->
-<table align="center">
-  <tr>
-    <th>Milestone 0</th>
-    <th>Milestone 1</th>
-    <th>Milestone 2</th>
-    <th>Milestone 3</th>
-    <th>Milestone 4</th>
-    <th>Milestone 5</th>
-    <th>Milestone 6</th>
-  </tr>
-<!-- Start Row 1 -->
-  <tr>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/libft">libft</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/ft_printf">ft_printf</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/minitalk">minitalk</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/minishell">minishell</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-  </tr>
-<!-- Start Row 2 -->
-  <tr align="center">
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/get_next_line">get_next_line</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/push_swap">push_swap</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/philosophers">philosophers</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-  </tr>
-<!-- Start of row 3 -->
-  <tr align="left">
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/Born2beroot">Born2beroot</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a href="https://github.com/victor-goyzueta/so_long">so_long</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <b><a>-----</a><br></b>
-      </ul>
-    </td>
-  </tr>
-</table>
+## My Projects
+
+<details>
+  <summary><strong>Milestone 0️⃣</strong></summary>
+
+  - [`libft`](https://github.com/victor-goyzueta/libft): My own standard C library functions.
+</details>
+
+<details>
+  <summary><strong>Milestone 1️⃣</strong></summary>
+
+  - [`ft_printf`](https://github.com/victor-goyzueta/ft_printf): A custom implementation of the standard `printf` function.
+  - [`get_next_line`](https://github.com/victor-goyzueta/get_next_line): A function to read line by line from multiple files descriptors.
+</details>
+
+<details>
+  <summary><strong>Milestone 2️⃣</strong></summary>
+
+  - [`push_swap`](https://github.com/victor-goyzueta/push_swap): Program that sorts a stack using a limited set of operations.
+  - [`minitalk`](https://github.com/victor-goyzueta/minitalk): A client-server communication program using signals.
+  - [`so_long`](https://github.com/victor-goyzueta/so_long): Simple 2D video game where your character's goal is to collect all the items and find the exit.
+</details>
+
+<details>
+  <summary><strong>Milestone 3️⃣</strong></summary>
+
+  - [`minishell`](https://github.com/victor-goyzueta/minishell): Implementation of a minimalist version of shell.
+  - [`philosophers`](https://github.com/victor-goyzueta/philosophers): The Dining Philosophers problem using multiple-threading.
+</details>
+
+<details>
+  <summary><strong>Milestone 4️⃣</strong></summary>
+
+  - `IN PROGRESS...`
+</details>
 
 <br>
 
