@@ -6,11 +6,13 @@
 
 ---
 
-I am a programming student 💻 at [`42 Madrid`](https://www.42madrid.com/), exploring new ways to create digital solutions that combine logic and creativity. My current focus is on developing technical skills and deepening my programming knowledge to expand my possibilities within the tech world.
+💻 I am a programming student currently pursuing the Common Core at [`42 Madrid`](https://www.42madrid.com/), where I am building a solid foundation in C, C++, algorithms, data structures, and system programming in Unix/Linux environments.
 
-I come from a background in visual design, where I have worked in advertising agencies and led multidisciplinary teams. This experience has given me a strategic vision for approaching problems from both an aesthetic and functional perspective.
+👥 My previous professional experience, where I took on leadership and multidisciplinary team coordination roles, allowed me to develop key skills in organization, communication, and collaborative work. Combined with my technical curiosity, analytical thinking, and problem-solving orientation, I quickly adapt to new challenges and technologies.
 
-I am motivated to learn, iterate, and perfect every detail, always seeking to build experiences that are intuitive, accessible, and have a real impact. I am looking for opportunities where I can apply my programming knowledge, continue to grow, and add value to challenging projects.
+🌍 I currently keep the doors open to all branches of programming, although I am especially drawn to software development, data analysis, artificial intelligence, and IoT.
+
+🎯 My goal is to join projects where I can continue learning, contribute value, and grow by building innovative technological solutions.
 
 ---
 
