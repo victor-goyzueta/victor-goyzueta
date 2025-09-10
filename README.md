@@ -20,16 +20,16 @@
 ## My Projects
 
 <details>
-  <summary><strong>Milestone 0️⃣</strong></summary>
+  <summary><strong>Milestone 4️⃣</strong></summary>
 
-  - [`libft`](https://github.com/victor-goyzueta/libft): My own standard C library functions.
+  - `IN PROGRESS...`
 </details>
 
 <details>
-  <summary><strong>Milestone 1️⃣</strong></summary>
+  <summary><strong>Milestone 3️⃣</strong></summary>
 
-  - [`ft_printf`](https://github.com/victor-goyzueta/ft_printf): A custom implementation of the standard `printf` function.
-  - [`get_next_line`](https://github.com/victor-goyzueta/get_next_line): A function to read line by line from multiple files descriptors.
+  - [`minishell`](https://github.com/victor-goyzueta/minishell): Implementation of a minimalist version of shell.
+  - [`philosophers`](https://github.com/victor-goyzueta/philosophers): The Dining Philosophers problem using multiple-threading.
 </details>
 
 <details>
@@ -41,16 +41,17 @@
 </details>
 
 <details>
-  <summary><strong>Milestone 3️⃣</strong></summary>
+  <summary><strong>Milestone 1️⃣</strong></summary>
 
-  - [`minishell`](https://github.com/victor-goyzueta/minishell): Implementation of a minimalist version of shell.
-  - [`philosophers`](https://github.com/victor-goyzueta/philosophers): The Dining Philosophers problem using multiple-threading.
+  - [`ft_printf`](https://github.com/victor-goyzueta/ft_printf): A custom implementation of the standard `printf` function.
+  - [`get_next_line`](https://github.com/victor-goyzueta/get_next_line): A function to read line by line from multiple files descriptors.
 </details>
 
-<details>
-  <summary><strong>Milestone 4️⃣</strong></summary>
 
-  - `IN PROGRESS...`
+<details>
+  <summary><strong>Milestone 0️⃣</strong></summary>
+
+  - [`libft`](https://github.com/victor-goyzueta/libft): My own standard C library functions.
 </details>
 
 <br>
