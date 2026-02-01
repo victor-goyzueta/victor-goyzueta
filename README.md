@@ -22,7 +22,8 @@
 <details>
   <summary><strong>Milestone 4️⃣</strong></summary>
 
-  - `IN PROGRESS...`
+  - [`netpractice`](https://github.com/victor-goyzueta/netpractice): This project is a general practical exercise designed to discover networks.
+  - [`cub3d`](https://github.com/victor-goyzueta/cub3d): 3D graphics engine with raycasting.
 </details>
 
 <details>
