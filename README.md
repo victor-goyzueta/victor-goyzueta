@@ -24,7 +24,7 @@
 
   - [`netpractice`](https://github.com/victor-goyzueta/netpractice): This project is a general practical exercise designed to discover networks.
   - [`cub3d`](https://github.com/victor-goyzueta/cub3d): 3D graphics engine with raycasting.
-  - [`cpp-modules-00-04`] ``IN PROGRESS``
+  - [`cpp-modules-00-04`](https://github.com/victor-goyzueta/cpp-modules-00-04): These modules are designed to help us understand the specificities of language when compared to C.
 </details>
 
 <details>
