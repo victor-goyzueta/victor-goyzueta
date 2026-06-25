@@ -6,13 +6,8 @@
 
 ---
 
-💻 I am a programming student currently pursuing the Common Core at [`42 Madrid`](https://www.42madrid.com/), where I am building a solid foundation in C, C++, algorithms, data structures, and system programming in Unix/Linux environments.
-
-👥 My previous professional experience, where I took on leadership and multidisciplinary team coordination roles, allowed me to develop key skills in organization, communication, and collaborative work. Combined with my technical curiosity, analytical thinking, and problem-solving orientation, I quickly adapt to new challenges and technologies.
-
-🌍 I currently keep the doors open to all branches of programming, although I am especially drawn to software development, data analysis, artificial intelligence, and IoT.
-
-🎯 My goal is to join projects where I can continue learning, contribute value, and grow by building innovative technological solutions.
+Programming student at [`42 Madrid`](https://www.42madrid.com/) with a background in design leadership and multidisciplinary project coordination.
+I approach software development with a product-oriented mindset, connecting technical implementation with business objectives, user needs, and project execution.
 
 ---
 
