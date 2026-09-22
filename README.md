@@ -16,7 +16,7 @@ I approach software development with a product-oriented mindset, connecting tech
 <details>
   <summary><strong>Milestone 5️⃣</strong></summary>
 
-  - [`ft_irc`](https://github.com/victor-goyzueta/cpp-modules-05-09): `IN PROGRESS...`
+  - [`ft_irc`](https://github.com/victor-goyzueta/ft_irc): `IN PROGRESS...`
   - [`cpp-modules-05-09`](https://github.com/victor-goyzueta/cpp-modules-05-09): These modules are designed to help us understand the specificities of language when compared to C.
 </details>
 
