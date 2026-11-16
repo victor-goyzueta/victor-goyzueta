@@ -16,6 +16,7 @@ I approach software development with a product-oriented mindset, connecting tech
 <details>
   <summary><strong>Milestone 5️⃣</strong></summary>
 
+  - [`inception`](https://github.com/victor-goyzueta/inception): `IN PROGRESS...`
   - [`ft_irc`](https://github.com/victor-goyzueta/ft_irc): Functional Internet Relay Chat server capable of handling multiple clients simultaneously.
   - [`cpp-modules-05-09`](https://github.com/victor-goyzueta/cpp-modules-05-09): These modules are designed to help us understand the specificities of language when compared to C.
 </details>
@@ -67,10 +68,10 @@ I approach software development with a product-oriented mindset, connecting tech
 
 <br>
 
-<!--  -->
+<!--
 <div align="center">
   <a href="https://github.com/victor-goyzueta"><img src="https://badge.mediaplus.ma/darkblue/vgoyzuet?1337Badge=off&UM6P=off" alt="vgoyzuet's 42 stats" /></a>
-</div>
+</div> -->
 
 <br>
 
